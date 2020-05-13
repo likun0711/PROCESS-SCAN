@@ -1,5 +1,4 @@
 # PROCESS-SCAN
-＃通过了解学习，目前只掌握了如何扫描系统进展，代码如下：
 #include <windows.h>
 #include <tlhelp32.h>
 #include <tchar.h>
